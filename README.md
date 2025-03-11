@@ -3,7 +3,7 @@
 What Programming Really Looks Like" is a YouTube tutorial series aimed at showcasing real-world programming, research, and problem-solving techniques. Each season focuses on a specific project, demonstrating how to set up, develop, debug, and clean up code while referencing online resources.
 Each episode will be 5 minutes long and structured to be engaging and informative.
 
-## Season 1: Rest API with Node.js
+## Season 1: Virtual Wallet System Rest API with Node.js
 ### Episode 1: Setting Up a Node.js Application and Research on Wallet Systems
 - Install Node.js and initialize a project (npm init)
 - Install Express.js and other dependencies
