@@ -1,0 +1,28 @@
+{
+  "name": "wallet-api",
+  "version": "1.0.0",
+  "description": "Basic Wallet Transaction System Api",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialyenum/What-Programming-Really-Looks-Like-Season-One-NodeJS.git"
+  },
+  "author": "Chukwuyenum Opone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/officialyenum/What-Programming-Really-Looks-Like-Season-One-NodeJS/issues"
+  },
+  "homepage": "https://github.com/officialyenum/What-Programming-Really-Looks-Like-Season-One-NodeJS#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
